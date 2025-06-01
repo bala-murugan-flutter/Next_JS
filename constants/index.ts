@@ -142,25 +142,25 @@ export const FRONTEND_SKILL = [
   },
   {
     skill_name: "React",
-    image: "react.png",
+    image: "shoot.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Redux",
-    image: "redux.png",
+    image: "nmap.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "React Query",
-    image: "reactquery.png",
+    image: "md.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "TypeScript",
-    image: "ts.png",
+    image: "power.png",
     width: 80,
     height: 80,
   },
@@ -175,7 +175,7 @@ export const FRONTEND_SKILL = [
 export const BACKEND_SKILL = [
   {
     skill_name: "Node.js",
-    image: "node.png",
+    image: "django.png",
     width: 80,
     height: 80,
   },
@@ -187,7 +187,7 @@ export const BACKEND_SKILL = [
   },
   {
     skill_name: "MongoDB",
-    image: "mongodb.png",
+    image: "os.png",
     width: 40,
     height: 40,
   },

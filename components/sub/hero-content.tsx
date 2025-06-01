@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Freelancer Portfolio
+           Get 10% Off at Igristechnos!
           </h1>
         </motion.div>
 
@@ -43,10 +43,10 @@ export const HeroContent = () => {
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
+          className="text-lg text-gray-400 my-5 max-w-[600px] text-justify"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+         Igristechnos is a full stack software development company specializing in websites, 
+         mobile apps, and custom software.Explore our team’s projects and skills
         </motion.p>
 
         <motion.a

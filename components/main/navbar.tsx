@@ -24,7 +24,7 @@ export const Navbar = () => {
               draggable={false}
               className="cursor-pointer"
             />
-            <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">Bala</div>
+            <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">Igristechnos</div>
           </Link>
         </div>
 
