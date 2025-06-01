@@ -262,27 +262,28 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Mobile & Desktop App Development by Igristechnos",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
+      "We specialize in creating seamless, high-performance mobile and desktop applications tailored to your business needs. Whether it’s engaging Android and iOS apps or powerful, scalable desktop software for Windows and macOS, Igristechnos delivers innovative solutions that drive growth and enhance user experience.",
     image: "/projects/project-1.jpg",
-    link: "https://example.com",
+    link: "",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "Website & Web App Development by Igristechnos",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
+      "We craft stunning, responsive websites and dynamic web applications tailored precisely to your business goals. From sleek, modern designs to powerful backend systems, Igristechnos delivers scalable and user-friendly web solutions designed to boost engagement and drive measurable success.",
     image: "/projects/project-2.jpg",
-    link: "https://example.com",
+    link: "",
   },
   {
-    title: "Space Themed Website",
+    title: "Custom Software Development by Igristechnos",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
+      "We design and build tailor-made software solutions perfectly aligned with your unique business requirements. From initial concept through deployment, Igristechnos provides reliable, scalable, and efficient custom software designed to optimize your operations and accelerate growth effectively.",
     image: "/projects/project-3.jpg",
-    link: "https://example.com",
+    link: "",
   },
-] as const;
+];
+
 
 export const FOOTER_DATA = [
   {
