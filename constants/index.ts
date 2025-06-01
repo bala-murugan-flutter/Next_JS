@@ -99,7 +99,7 @@ export const SOCIALS = [
   {
     name: "WhatsApp",
     icon: FaWhatsapp,
-    link: "https://wa.me/919384199108?text=hi%20i%20needninfo%20about%20bal%20info%20tech",
+    link: "https://wa.me/919384199108?text=Use%20the%20code%20IGRISTECHNOS%20and%20get%20a%2030%%20discount!"
   },
 
   {
@@ -358,7 +358,7 @@ export const NAV_LINKS = [
     link: "#skills",
   },
   {
-    title: "Projects",
+    title: "Services",
     link: "#projects",
   },
 ] as const;
