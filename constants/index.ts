@@ -334,17 +334,17 @@ export const FOOTER_DATA = [
       {
         name: "GST INFO",
         icon: null,
-        link: "https://youtube.com",
+        link: "/gst",
       },
       {
         name: "Privacy Policy",
         icon: null,
-        link: "https://example.com",
+        link: "/privacy-policy",
       },
       {
         name: "Terms and conditions",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "/Terms",
       },
     ],
   },
