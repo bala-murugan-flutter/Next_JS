@@ -314,16 +314,16 @@ export const FOOTER_DATA = [
       {
         name: "YouTude",
         icon: FaYoutube,
-        link: "https://instagram.com",
+        link: "https://www.youtube.com/@Igristechnos",
       },
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://x.com/Igristechnos",
       },
       {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
+        name: "Instagram",
+        icon: RxInstagramLogo,
         link: "https://linkedin.com",
       },
     ],
