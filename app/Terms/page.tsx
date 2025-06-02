@@ -12,7 +12,7 @@ export default function TermsPage() {
         <h1 className="text-3xl sm:text-4xl font-bold mb-6">Terms and Conditions</h1>
 
         <p className="mb-6 text-gray-200 text-sm sm:text-base">
-          These Terms and Conditions ("Terms") govern your access to and use of the services, platforms, and websites
+          These Terms and Conditions (&quot;Terms&quot;) govern your access to and use of the services, platforms, and websites
           operated by Igristechnos . By accessing or using our services, you agree to comply with and be bound by these Terms.
         </p>
 
