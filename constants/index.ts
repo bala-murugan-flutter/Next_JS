@@ -352,18 +352,19 @@ export const FOOTER_DATA = [
 
 export const NAV_LINKS = [
   {
-    title: "About me",
-    link: "#about-me",
+    title: "About",
+    link: "/#about-me", // 👈 add leading slash
   },
   {
     title: "Skills",
-    link: "#skills",
+    link: "/#skills",
   },
   {
     title: "Services",
-    link: "#projects",
+    link: "/#projects",
   },
 ] as const;
+
 
 export const LINKS = {
   sourceCode: "https://github.com/",
