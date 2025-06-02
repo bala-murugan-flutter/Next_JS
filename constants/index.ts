@@ -1,4 +1,4 @@
-import { FaYoutube, FaFacebook } from "react-icons/fa";
+import { FaYoutube, FaFacebook , FaMapMarkerAlt  } from "react-icons/fa";
 import {  FaPhoneAlt, FaEnvelope, FaWhatsapp } from "react-icons/fa";
 import {
   RxDiscordLogo,
@@ -287,22 +287,24 @@ export const PROJECTS = [
 
 export const FOOTER_DATA = [
   {
-    title: "Community",
+    title: "Contact",
     data: [
       {
-        name: "YouTube",
-        icon: FaYoutube,
-        link: "https://youtube.com",
+        name: "186A,sathiamoorthy Nager,Madurai 602",
+        icon: FaMapMarkerAlt ,
+         link: "https://www.google.com/maps?q=9.973584,78.044386",
       },
+
       {
-        name: "GitHub",
-        icon: RxGithubLogo,
-        link: "https://github.com",
+        name: "balamurgan.Contact@gamil.com",
+        icon: FaEnvelope,
+       link: "mailto:balamuruganpandi@gmail.com",    
       },
+
       {
-        name: "Discord",
-        icon: RxDiscordLogo,
-        link: "https://discord.com",
+        name: "+91 9384199108",
+        icon: FaPhoneAlt,
+       link: "tel:+919384199108",
       },
     ],
   },
@@ -310,8 +312,8 @@ export const FOOTER_DATA = [
     title: "Social Media",
     data: [
       {
-        name: "Instagram",
-        icon: RxInstagramLogo,
+        name: "YouTude",
+        icon: FaYoutube,
         link: "https://instagram.com",
       },
       {
@@ -327,20 +329,20 @@ export const FOOTER_DATA = [
     ],
   },
   {
-    title: "About",
+    title: "Comapny",
     data: [
       {
-        name: "Become Sponsor",
+        name: "GST INFO",
         icon: null,
         link: "https://youtube.com",
       },
       {
-        name: "Learning about me",
+        name: "Privacy Policy",
         icon: null,
         link: "https://example.com",
       },
       {
-        name: "Contact Me",
+        name: "Terms and conditions",
         icon: null,
         link: "mailto:contact@example.com",
       },
