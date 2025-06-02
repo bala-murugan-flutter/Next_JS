@@ -324,7 +324,7 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://linkedin.com",
+        link: "https://www.instagram.com/igristechnos/",
       },
     ],
   },
