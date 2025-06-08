@@ -54,7 +54,7 @@ export const HeroContent = () => {
            href="tel:+919384199108"
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-        Book Now
+        Get Free Trial
         </motion.a>
       </div>
 

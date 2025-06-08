@@ -265,21 +265,35 @@ export const PROJECTS = [
     title: "Mobile & Desktop App Development by Igristechnos",
     description:
       "We specialize in creating seamless, high-performance mobile and desktop applications tailored to your business needs. Whether it’s engaging Android and iOS apps or powerful, scalable desktop software for Windows and macOS, Igristechnos delivers innovative solutions that drive growth and enhance user experience.",
-    image: "/projects/project-1.jpg",
+    image: "/projects/1.gif",
     link: "",
   },
   {
     title: "Website & Web App Development by Igristechnos",
     description:
       "We craft stunning, responsive websites and dynamic web applications tailored precisely to your business goals. From sleek, modern designs to powerful backend systems, Igristechnos delivers scalable and user-friendly web solutions designed to boost engagement and drive measurable success.",
-    image: "/projects/project-2.jpg",
+    image: "/projects/2.gif",
     link: "",
   },
   {
     title: "Custom Software Development by Igristechnos",
     description:
       "We design and build tailor-made software solutions perfectly aligned with your unique business requirements. From initial concept through deployment, Igristechnos provides reliable, scalable, and efficient custom software designed to optimize your operations and accelerate growth effectively.",
-    image: "/projects/project-3.jpg",
+    image: "/projects/3.gif",
+    link: "",
+  },
+   {
+    title: "Custom PC Builds by IGRISTECHNOS",
+    description:
+      "Experience peak performance with IGRISTECHNOS custom PC builds, tailored for developers, gamers, and creative professionals. We design high-performance, future-proof systems using premium components to meet your exact needs—whether for work, play, or innovation",
+    image: "/projects/4.gif",
+    link: "",
+  },
+     {
+    title: "UI/UX Design Services by IGRISTECHNOS",
+    description:
+      "At IGRISTECHNOS, we craft intuitive, visually stunning, and user-friendly interfaces that elevate your digital experience. From wireframes to final designs, we ensure seamless user journeys across websites, mobile apps, and software—built to engage, convert, and impress",
+    image: "/projects/5.gif",
     link: "",
   },
 ];
@@ -362,6 +376,11 @@ export const NAV_LINKS = [
   {
     title: "Services",
     link: "/#projects",
+  },
+
+   {
+    title: "Client List",
+    link: "/list",
   },
 ] as const;
 
