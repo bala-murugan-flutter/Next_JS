@@ -1,5 +1,8 @@
 import React from "react";
-
+export const metadata = {
+  title: 'Client Reviews | Igristechnos Testimonials & Feedback',
+  description: 'Read and watch client testimonials about Igristechnos. See real customer reviews, ratings, and video feedback from mobile app users.',
+};
 const clients = [
   {
     name: "Client A",
