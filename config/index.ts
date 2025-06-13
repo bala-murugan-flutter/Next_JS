@@ -53,4 +53,9 @@ export const siteConfig: Metadata = {
     site: "@Igristechnos", // Twitter handle (if available)
     creator: "@Igristechnos", // Creator handle (if available)
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico", // Optional: if you have an Apple icon
+  },
 } as const;
